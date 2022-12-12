@@ -1,10 +1,10 @@
-#include "stdio.h"
+ï»¿#include "stdio.h"
 
 int main(void)
 {
 	printf("Hello Git World!!\n");
 
-	printf("ƒhƒ“ƒ}ƒC?\n");
+	printf("ãƒ‰ãƒ³ãƒžã‚¤â€¼\n");
 
 	return 0;
 }
