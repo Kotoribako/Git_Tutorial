@@ -6,6 +6,7 @@ int main(void)
 
 	printf("Ç≤ÇﬂÇÒÇ»Ç≥Ç¢ÅB\n");
 	printf("Ç≤ÇﬂÇÒÇ»Ç≥Ç¢ÅB\n");
+	printf("Ç≤ÇﬂÇÒÇ»Ç≥Ç¢ÅB\n");
 
 	return 0;
 }
